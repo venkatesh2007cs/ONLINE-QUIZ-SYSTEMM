@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f2f2f2;
+    text-align: center;
+    padding-top: 60px;
+}
+
+.quiz-container {
+    background: white;
+    width: 500px;
+    margin: auto;
+    padding: 30px;
+    border-radius: 15px;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+#question {
+    font-size: 24px;
+}
+
+#options button {
+    display: block;
+    width: 80%;
+    margin: 10px auto;
+    padding: 12px;
+    font-size: 17px;
+    cursor: pointer;
+}
+
+#nextBtn {
+    padding: 12px 30px;
+    font-size: 17px;
+    cursor: pointer;
+}
